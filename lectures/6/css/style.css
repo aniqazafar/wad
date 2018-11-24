@@ -86,6 +86,9 @@ a {
     font-family: 'Bangers', 'cursive';
     letter-spacing: 3px;
 }
+
+
+
 .lister-list > .lister-item > .lister-item-content > h3 > .lister-item-year{
     font-size: small;
     font-weight: normal;
