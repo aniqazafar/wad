@@ -1,10 +1,4 @@
 <?php
-
-$con = mysqli_connect("localhost", "root", "", "aniqazafar" );
-
+$con = mysqli_connect("localhost","root","","tech_box_db");
 if(!$con)
-{
-die("connection failed");
-}
-
-?>
+    die("Connection failed");
